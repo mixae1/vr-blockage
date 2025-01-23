@@ -7,6 +7,10 @@ TagManager:
   - Anchor
   - LevelLabel
   - LightSlider
+  - Ball
+  - T1
+  - T2
+  - startPos
   layers:
   - Default
   - TransparentFX
